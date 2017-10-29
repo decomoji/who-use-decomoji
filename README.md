@@ -18,6 +18,7 @@
 | W3C CSS Module 仕様書もくもく会 | [tokyo-css-module-specs.connpass.com](https://tokyo-css-module-specs.connpass.com/) | [@tokyocssspecs](https://github.com/tokyocssspecs) | コミュニティーSlack |
 | 株式会社ピクセルグリッド | [www.pxgrid.com](https://www.pxgrid.com/) | [@pxgrid](https://github.com/pxgrid) | 社内用Slack |
 | 株式会社AbemaTV | [abematv.co.jp](http://abematv.co.jp/) | [@abema](https://github.com/abema) | 社内用Slack |
+| FRESH! | [freshlive.tv](https://freshlive.tv/) | [@openfresh](https://github.com/openfresh) | チーム用Slack |
 
 ## See also
 
