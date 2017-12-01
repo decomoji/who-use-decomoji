@@ -20,6 +20,7 @@
 | 株式会社AbemaTV | [abematv.co.jp](http://abematv.co.jp/) | [@abema](https://github.com/abema) | 社内用Slack |
 | FRESH! | [freshlive.tv](https://freshlive.tv/) | [@openfresh](https://github.com/openfresh) | チーム用Slack |
 | 株式会社シフトブレイン | [www.shiftbrain.com](http://www.shiftbrain.com/) | [@devjam](https://github.com/devjam) | 社内用Slack |
+| 株式会社トゥーアール | [to-r.net](https://www.to-r.net/) | [@to-r](https://github.com/to-r/) | 社内用Slack |
 
 ## See also
 
