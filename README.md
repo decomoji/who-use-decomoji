@@ -24,6 +24,7 @@
 | UIT | https://uit.connpass.com/event/ | - | イベントプロモーター |
 | A11YJ | https://a11yj.herokuapp.com/ | [@a11yj](https://github.com/a11yj) | コミュニティー |
 | DESIGNMEMO Café |https://note.mu/designmemo/n/nda7cf7775a6d|-|コミュニティー |
+| 株式会社サイバーエージェント | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | 社内 |
 
 ## See also
 
