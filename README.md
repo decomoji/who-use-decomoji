@@ -14,16 +14,16 @@
 
 | 組織名 | ウェブサイト | GitHub | どんなSlackチーム？ |
 | --- | --- | --- | --- |
-| 株式会社まぼろし | [maboroshi.biz](https://maboroshi.biz) | [@maboroshi-inc](https://github.com/maboroshi-inc) | 社内用Slack |
-| W3C CSS Module 仕様書もくもく会 | [tokyo-css-module-specs.connpass.com](https://tokyo-css-module-specs.connpass.com/) | [@tokyocssspecs](https://github.com/tokyocssspecs) | コミュニティーSlack |
-| 株式会社ピクセルグリッド | [www.pxgrid.com](https://www.pxgrid.com/) | [@pxgrid](https://github.com/pxgrid) | 社内用Slack |
-| 株式会社AbemaTV | [abematv.co.jp](http://abematv.co.jp/) | [@abema](https://github.com/abema) | 社内用Slack |
-| FRESH! | [freshlive.tv](https://freshlive.tv/) | [@openfresh](https://github.com/openfresh) | チーム用Slack |
-| 株式会社シフトブレイン | [www.shiftbrain.com](http://www.shiftbrain.com/) | [@devjam](https://github.com/devjam) | 社内用Slack |
-| 株式会社トゥーアール | [to-r.net](https://www.to-r.net/) | [@to-r](https://github.com/to-r/) | 社内用Slack |
-| UIT |https://uit.connpass.com/event/|-|イベントプロモーターSlack|
-| A11YJ |https://a11yj.herokuapp.com/|[@a11yj](https://github.com/a11yj)|コミュニティーSlack|
-| DESIGNMEMO Café |https://note.mu/designmemo/n/nda7cf7775a6d|-|コミュニティーSlack|
+| 株式会社まぼろし | [maboroshi.biz](https://maboroshi.biz) | [@maboroshi-inc](https://github.com/maboroshi-inc) | 社内 |
+| W3C CSS Module 仕様書もくもく会 | [tokyo-css-module-specs.connpass.com](https://tokyo-css-module-specs.connpass.com/) | [@tokyocssspecs](https://github.com/tokyocssspecs) | コミュニティー |
+| 株式会社ピクセルグリッド | [www.pxgrid.com](https://www.pxgrid.com/) | [@pxgrid](https://github.com/pxgrid) | 社内 |
+| 株式会社AbemaTV | [abematv.co.jp](http://abematv.co.jp/) | [@abema](https://github.com/abema) | 社内 |
+| FRESH! | [freshlive.tv](https://freshlive.tv/) | [@openfresh](https://github.com/openfresh) | チーム |
+| 株式会社シフトブレイン | [www.shiftbrain.com](http://www.shiftbrain.com/) | [@devjam](https://github.com/devjam) | 社内 |
+| 株式会社トゥーアール | [to-r.net](https://www.to-r.net/) | [@to-r](https://github.com/to-r/) | 社内 |
+| UIT | https://uit.connpass.com/event/ | - | イベントプロモーター |
+| A11YJ | https://a11yj.herokuapp.com/ | [@a11yj](https://github.com/a11yj) | コミュニティー |
+| DESIGNMEMO Café |https://note.mu/designmemo/n/nda7cf7775a6d|-|コミュニティー |
 
 ## See also
 
