@@ -26,6 +26,7 @@
 | DESIGNMEMO Café |https://note.mu/designmemo/n/nda7cf7775a6d|-|コミュニティー |
 | 株式会社サイバーエージェント | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | 社内 |
 | エイコン | [eiicon.net](https://eiicon.net) | - | チーム |
+| 東京工業大学エンジニアリングデザインプロジェクト | [東京工業大学エンジニアリングデザインプロジェクト](https://titech-edp.github.io/) | - | 大学の講義 |
 
 ## See also
 
