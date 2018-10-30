@@ -27,6 +27,7 @@
 | 株式会社サイバーエージェント | https://www.cyberagent.co.jp/ | [@cyberagent](https://github.com/cyberagent) | 社内 |
 | エイコン | [eiicon.net](https://eiicon.net) | - | チーム |
 | 東京工業大学エンジニアリングデザインプロジェクト | [東京工業大学エンジニアリングデザインプロジェクト](https://titech-edp.github.io/) | - | 大学の講義 |
+| トウバンジャン | [https://doubanista.herokuapp.com](https://doubanista.herokuapp.com/) | [@doubanista](https://github.com/doubanista) | コミュニティー |
 
 ## See also
 
