@@ -28,6 +28,7 @@
 | エイコン | [eiicon.net](https://eiicon.net) | - | チーム |
 | 東京工業大学エンジニアリングデザインプロジェクト | [東京工業大学エンジニアリングデザインプロジェクト](https://titech-edp.github.io/) | - | 大学の講義 |
 | トウバンジャン | [https://doubanista.herokuapp.com](https://doubanista.herokuapp.com/) | [@doubanista](https://github.com/doubanista) | コミュニティー |
+| MF KESSAI株式会社 | [https://mfkessai.co.jp/](https://mfkessai.co.jp/) | [@mfkessai](https://github.com/mfkessai) | 社内 |
 
 ## See also
 
