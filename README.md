@@ -31,6 +31,7 @@
 | MF KESSAI株式会社 | [https://mfkessai.co.jp/](https://mfkessai.co.jp/) | [@mfkessai](https://github.com/mfkessai) | 社内 |
 | WP ZoomUP 運営 | [https://wpzoomup.com/](https://wpzoomup.com/) | -  | オンライン勉強会運営 |
 | 合同会社きぼうソフト | [https://kibousoft.co.jp/](https://kibousoft.co.jp/) | [@kibousoft](https://github.com/kibousoft) | 社内・パートナー |
+| 株式会社 mediba | [https://www.mediba.jp/](https://example.com) | [@mediba-system](https://github.com/mediba-system/) | 全社 |
 
 ## See also
 
