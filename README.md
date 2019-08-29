@@ -32,6 +32,7 @@
 | WP ZoomUP 運営 | [https://wpzoomup.com/](https://wpzoomup.com/) | -  | オンライン勉強会運営 |
 | 合同会社きぼうソフト | [https://kibousoft.co.jp/](https://kibousoft.co.jp/) | [@kibousoft](https://github.com/kibousoft) | 社内・パートナー |
 | 株式会社 mediba | [https://www.mediba.jp/](https://example.com) | [@mediba-system](https://github.com/mediba-system/) | 全社 |
+| キリロム工科大学 C4K - Code for KIT | [https://www.kirirom.info/インターンシップ/](https://www.kirirom.info/インターンシップ/) | [@code4kit](https://github.com/code4kit/) | 社内 |
 
 ## See also
 
