@@ -33,6 +33,8 @@
 | 合同会社きぼうソフト | [https://kibousoft.co.jp/](https://kibousoft.co.jp/) | [@kibousoft](https://github.com/kibousoft) | 社内・パートナー |
 | 株式会社 mediba | [https://www.mediba.jp/](https://www.mediba.jp/) | [@mediba-system](https://github.com/mediba-system/) | 全社 |
 | キリロム工科大学 C4K - Code for KIT | [https://www.kirirom.info/インターンシップ/](https://www.kirirom.info/インターンシップ/) | [@code4kit](https://github.com/code4kit/) | 社内 |
+| 慶應義塾大学宇宙科学総合研究会LYNCS | [https://lyncs-keio.net](https://lyncs-keio.net) | [@LYNCS-Keio](https://github.com/LYNCS-Keio) | 大学公認団体 |
+| 株式会社Lang-8 | [https://lang-8.jp](https://lang-8.jp) | [@Lang-8](https://github.com/Lang-8) | 社内 |
 
 ## See also
 
