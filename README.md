@@ -1,6 +1,6 @@
 # Who use decomoji?
 
-[slack-reaction-decomoji](https://github.com/oti/slack-reaction-decomoji)を導入している会社、グループのリストです。decomojiの使用は一部だけでも構いません！
+[デコモジ（decomoji）](https://github.com/oti/decomoji)を導入している会社、グループのリストです。decomojiの使用は一部だけでも構いません！
 
 ## Add your Organization!
 
