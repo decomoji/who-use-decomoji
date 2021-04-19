@@ -40,6 +40,7 @@
 | 株式会社OSINTech | https://www.osintech.net | [@tomofu74](https://github.com/@tomofu74) | 社内 |
 | みんなのIT協会 | https://www.minnanoit.org/ | - | 協会 |
 | トリコ株式会社 | https://tricot-inc.com/ | [@tricot-inc](https://github.com/tricot-inc/) | 社内 |
+| 株式会社プラハ | https://www.praha-inc.com/ | [@PrahaI](https://github.com/praha-inc) | 社内 |
 
 ## See also
 
