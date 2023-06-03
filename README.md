@@ -32,11 +32,10 @@
 | WP ZoomUP 運営 | [https://wpzoomup.com/](https://wpzoomup.com/) | -  | オンライン勉強会運営 |
 | 合同会社きぼうソフト | [https://kibousoft.co.jp/](https://kibousoft.co.jp/) | [@kibousoft](https://github.com/kibousoft) | 社内・パートナー |
 | 株式会社 mediba | [https://www.mediba.jp/](https://www.mediba.jp/) | [@mediba-system](https://github.com/mediba-system/) | 全社 |
-| キリロム工科大学 C4K - Code for KIT | [https://www.kirirom.info/インターンシップ/](https://www.kirirom.info/インターンシップ/) | [@code4kit](https://github.com/code4kit/) | 社内 |
 | 慶應義塾大学宇宙科学総合研究会LYNCS | [https://lyncs-keio.net](https://lyncs-keio.net) | [@LYNCS-Keio](https://github.com/LYNCS-Keio) | 大学公認団体 |
 | 株式会社Lang-8 | [https://lang-8.jp](https://lang-8.jp) | [@Lang-8](https://github.com/Lang-8) | 社内 |
 | 株式会社ネコメシ | [https://necomesi.jp](https://necomesi.jp) | [@necomesi](https://github.com/necomesi) | 社内 |
-| ねこハウス | [https://devne-co.github.io/webgl-site/](https://devne-co.github.io/webgl-site/) | [@devne-co](https://github.com/devne-co) | 個人事業 |
+| ナイトランプ合同会社 / ねこハウス | [https://nightlamp.dev/](https://nightlamp.dev) | [@nightlamp-llc](https://github.com/nightlamp-llc) | 社内 |
 | 株式会社OSINTech | https://www.osintech.net | [@tomofu74](https://github.com/@tomofu74) | 社内 |
 | みんなのIT協会 | https://www.minnanoit.org/ | - | 協会 |
 | トリコ株式会社 | https://tricot-inc.com/ | [@tricot-inc](https://github.com/tricot-inc/) | 社内 |
