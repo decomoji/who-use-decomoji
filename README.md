@@ -40,6 +40,7 @@
 | みんなのIT協会 | https://www.minnanoit.org/ | - | 協会 |
 | トリコ株式会社 | https://tricot-inc.com/ | [@tricot-inc](https://github.com/tricot-inc/) | 社内 |
 | 株式会社プラハ | https://www.praha-inc.com/ | [@PrahaI](https://github.com/praha-inc) | 社内 |
+| 国立大学法人 東京科学大学 総合研究院 スーパーコンピューティング研究センター 先端演算加速研究室 (小林研究室) | https://www.ac2.scrc.iir.isct.ac.jp/ | [@ac2-prod](https://github.com/ac2-prod) | 大学の研究室 |
 
 ## See also
 
